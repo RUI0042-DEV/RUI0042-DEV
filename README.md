@@ -12,7 +12,7 @@ M'apassiona tot el que té a veure amb la informàtica, tant a nivell de **softw
 - 🧩 Muntatge i manteniment de equips informàtics
 - ⚙️ Coneixement de components: CPU, GPU, RAM, SSD, etc.
 
-Estic en procés de construir el meu portfoli i millorar les meves habilitats tècniques dia a dia.
+Estic en procés de construir el meu portafoli i millorar les meves habilitats tècniques dia a dia.
 
 ## 📁 Què trobaràs aquí?
 
