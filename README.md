@@ -9,7 +9,7 @@ M'apassiona tot el que té a veure amb la informàtica, tant a nivell de **softw
 - 🌐 Desenvolupament web (HTML, CSS, JavaScript)
 - 🖥️ Administració de sistemes
 - 🔐 Ciberseguretat
-- 🧩 Muntatge i manteniment de equips informàtics
+- 🧩 Muntatge i manteniment **d’equips informàtics**
 - ⚙️ Coneixement de components: CPU, GPU, RAM, SSD, etc.
 
 Estic en procés de construir el meu portafoli i millorar les meves habilitats tècniques dia a dia.
