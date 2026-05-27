@@ -28,9 +28,9 @@ Disfruto resolviendo problemas técnicos, configurando servidores y aprendiendo 
 - **Sistemas Operativos**: Windows 10/11 y Linux básico
 - **Redes**: Configuración LAN/WLAN, TCP/IP, DHCP, DNS, Proxy
 - **Hardware**: Montaje, reparación y mantenimiento de equipos
-- **Servidores**: Samba, Active Directory, IPFire
+- **Servidores**: Samba, IPFire
 - **Desarrollo web**: Conocimientos básicos de HTML y CSS
-- **Otras**: Virtualización (VirtualBox), Git
+- **Otras**: Virtualización, Git
 
 ---
 
