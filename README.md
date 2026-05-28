@@ -1,7 +1,8 @@
 # 👋 Hola, soy Rui Huang
 
 **Estudiante de 2º curso del Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes (SMR)**  
-📍 Escola Pia Santa Anna - Mataró (Barcelona)
+
+📍 Escola Pia Santa Anna - Mataró 
 
 Con interés en continuar mi formación con el **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
@@ -25,12 +26,12 @@ Disfruto resolviendo problemas técnicos, configurando servidores y aprendiendo 
 
 ### Detalle de competencias:
 
-- **Sistemas Operativos**: Windows 10/11 y Linux básico
+- **Sistemas Operativos**: Windows 10/11, **Windows Server**, Ubuntu Server y Linux básico
 - **Redes**: Configuración LAN/WLAN, TCP/IP, DHCP, DNS, Proxy
 - **Hardware**: Montaje, reparación y mantenimiento de equipos
-- **Servidores**: Samba, IPFire
+- **Servidores**: Samba, **Windows Server**, **Ubuntu Server**, IPFire
 - **Desarrollo web**: Conocimientos básicos de HTML y CSS
-- **Otras**: Virtualización, Git
+- **Otras**: Virtualización (VirtualBox y VMware), Git, soporte técnico
 
 ---
 
@@ -47,7 +48,7 @@ Disfruto resolviendo problemas técnicos, configurando servidores y aprendiendo 
 
 - **Email:** rui.huangz@mataro.epiaedu.cat  
 - **LinkedIn:** [linkedin.com/in/rui-huang-696a99366](https://www.linkedin.com/in/rui-huang-696a99366/)  
-- **Ubicación:** Mataró (Barcelona)
+- **Ubicación:** Mataró 
 
 ---
 
