@@ -46,7 +46,7 @@ Disfruto resolviendo problemas técnicos, configurando servidores y aprendiendo 
 
 ## 📫 Contacto
 
-- **Email:** rui.huangz@mataro.epiaedu.cat  
+- **Email:** rui042yt@gmaail.com 
 - **LinkedIn:** [linkedin.com/in/rui-huang-696a99366](https://www.linkedin.com/in/rui-huang-696a99366/)  
 - **Ubicación:** Mataró 
 
